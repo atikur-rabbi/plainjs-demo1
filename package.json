@@ -1,5 +1,5 @@
 {
-    "name": "@wcd/atikur-rabbi.plainjs-ui0",
+    "name": "@wcd/atikur-rabbi.plainjs-demo1",
     "version": "0.0.0",
     "scripts": {
       "serve": "npx wcd-cli@latest serve cijs8dw4tNA3g1nUYMc0 --open"
